@@ -1,0 +1,15 @@
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\bin\Debug\net6.0\Logiksimulator.exe
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\bin\Debug\net6.0\Logiksimulator.deps.json
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\bin\Debug\net6.0\Logiksimulator.runtimeconfig.json
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\bin\Debug\net6.0\Logiksimulator.dll
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\bin\Debug\net6.0\Logiksimulator.pdb
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.csproj.AssemblyReference.cache
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.AssemblyInfoInputs.cache
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.AssemblyInfo.cs
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.csproj.CoreCompileInputs.cache
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.dll
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\refint\Logiksimulator.dll
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.pdb
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\Logiksimulator.genruntimeconfig.cache
+C:\Users\olaf.groh\CSharpProjects\E2XI_2023\Logiksimulator\obj\Debug\net6.0\ref\Logiksimulator.dll
